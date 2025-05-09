@@ -5,7 +5,7 @@ This is how to write *Italic* _text_ \
 This is how to combine **Bold _and Italic_ text** \
 This is how to write ***all Bold and Italic text*** \
 This is how to write ~~Strikethrough~~ text \
-This is how to write <ins>underlined</ins> text \
+This is how to write <ins>underlined</ins> text
 
 ## This is Heading 2
 
